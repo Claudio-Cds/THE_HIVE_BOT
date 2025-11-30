@@ -1,0 +1,16 @@
+{
+  "8333494453": {
+    "user_id": 8333494453,
+    "name": "Bekeeper Suporte",
+    "username": "Beekeepeersuporte",
+    "plan": "vip_plus_copy",
+    "vip_valid_until": null,
+    "copy_valid_until": null,
+    "is_blocked": false,
+    "discount_30_active": true,
+    "discount_5_active": false,
+    "discount_50_active": false,
+    "months_paid_consecutive": 0,
+    "created_at": "2025-11-30T05:20:14.937159"
+  }
+}

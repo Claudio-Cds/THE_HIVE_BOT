@@ -1,0 +1,41 @@
+PAINEL DE DIAGNÓSTICO — THE HIVE
+2025-11-30 12:21:00.542194
+
+### Módulos ###
+[OK] bot
+[OK] config
+[OK] students
+[OK] storage
+[OK] keyboards
+[OK] models
+[OK] handlers.common
+[OK] handlers.admin
+[OK] handlers.management_handlers
+[OK] handlers.student_panel
+[OK] handlers.admin_panel
+[OK] handlers.admin_payments
+[OK] handlers.signals
+[OK] handlers.diagnostico
+
+### Arquivos ###
+[OK] requirements.txt — 29 bytes
+[OK] students.json — 2 bytes
+
+### Students.json ###
+[OK] Backup criado em: data/backups/students_20251130_122100.bak
+[OK] students.json íntegro
+
+### Handlers duplicados ###
+[ERRO] Handlers duplicados:
+MessageHandler[callback=receber_valor]
+MessageHandler[callback=receber_valor]
+
+### Filtros perigosos ###
+Filtros perigosos detectados:
+handlers\diagnostico.py
+
+### /pendentes ###
+[OK] /pendentes registrado corretamente
+
+### Telegram API ###
+[OK] Telegram API funcionando — @TheHive_AcessoBot

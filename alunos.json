@@ -1,0 +1,10 @@
+{
+    "111222333": {
+        "nome": "Aluno Teste",
+        "plano": "vip",
+        "data_inicio": "2025-11-30",
+        "data_expira": "2025-12-30",
+        "status": "ativo",
+        "copy_enabled": false
+    }
+}
